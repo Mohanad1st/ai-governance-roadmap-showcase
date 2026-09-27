@@ -4,7 +4,7 @@
 
 <p align="center" dir="rtl" lang="ar">دورة مجانية ثنائية اللغة في حوكمة الذكاء الاصطناعي</p>
 
-> **This is a showcase, not the code.** The source is private because it is being relaunched. This page shows what it does and how it was built, not the code itself. A live walkthrough is available on request.
+> **This is a showcase, not the code.** The source is private because the new version is being prepared for relaunch. This page shows what it does and how it was built, not the code itself. A live walkthrough is available on request.
 
 ## The problem
 
