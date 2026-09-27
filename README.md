@@ -10,7 +10,7 @@
 
 ## The problem
 
-Good free AI governance material exists, but little of it is in Arabic or written for NGO and public-sector teams who need judgement rather than a list of regulations to memorise. This course turns the major frameworks — NIST AI RMF, ISO 42001, the EU AI Act, OWASP, UNESCO and OECD — into a guided journey anyone can follow for free. It covers the UNESCO Recommendation on the Ethics of AI with its Readiness Assessment Methodology and Ethical Impact Assessment, the OECD AI Principles, the NIST AI RMF, ISO/IEC 42001 and 42005, the EU AI Act, the Council of Europe Framework Convention and HUDERIA, and OWASP — with the Gulf in brief (SDAIA's AI Ethics Principles and Saudi Arabia's data-protection law named, and the UAE's federal and DIFC tracks). The interface is in Arabic and English; Arabic lessons are in progress.
+Good free AI governance material exists, but little of it is in Arabic or written for NGO and public-sector teams who need judgement rather than a list of regulations to memorise. This course turns the major frameworks into a guided journey anyone can follow for free. It covers the UNESCO Recommendation on the Ethics of AI with its Readiness Assessment Methodology and Ethical Impact Assessment, the OECD AI Principles, the NIST AI RMF, ISO/IEC 42001 and 42005, the EU AI Act, the Council of Europe Framework Convention and HUDERIA, and OWASP — with the Gulf in brief (SDAIA's AI Ethics Principles and Saudi Arabia's data-protection law named, and the UAE's federal and DIFC tracks). The interface is in Arabic and English; Arabic lessons are in progress.
 
 ## What it does
 
