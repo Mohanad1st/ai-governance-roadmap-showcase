@@ -1,14 +1,16 @@
-<p align="center"><img src="assets/banner.svg" alt="AI Governance Roadmap — A free, bilingual course that takes you from first definitions to a governance plan" width="100%"></p>
+<p align="center"><img src="assets/banner.svg" alt="AI Governance Roadmap" width="100%"></p>
 
-<p align="center"><b>Status:</b> Relaunching &nbsp;·&nbsp; <b>Built by</b> <a href="https://github.com/Mohanad1st">Mohannad Hesham</a> &nbsp;·&nbsp; <b>Source:</b> private</p>
+<p align="center"><b>A free course that takes you from first definitions to a working AI governance plan</b></p>
 
-<p align="center" dir="rtl" lang="ar">دورة مجانية ثنائية اللغة في حوكمة الذكاء الاصطناعي</p>
+<p align="center" dir="rtl" lang="ar">دورة مجانية في حوكمة الذكاء الاصطناعي — الواجهة بالعربية والإنجليزية، والدروس العربية قيد الإعداد</p>
 
-> **This is a showcase, not the code.** The source is private because the new version is being prepared for relaunch. This page shows what it does and how it was built, not the code itself. A live walkthrough is available on request.
+<p align="center"><b>Status:</b> Built · not yet publicly available &nbsp;·&nbsp; <b>Built by</b> <a href="https://github.com/Mohanad1st">Mohannad Hesham</a></p>
+
+> Case study only: the source is private because the new version is being prepared for relaunch. Walkthrough on request.
 
 ## The problem
 
-Most AI governance material is dense, paywalled or a list of regulations to memorise. Teams in NGOs and the impact sector need judgement, not memorisation. This course turns the major frameworks — NIST AI RMF, ISO 42001, the EU AI Act, OWASP, UNESCO and OECD — into a guided journey anyone can follow for free, in English or Arabic.
+Good free AI governance material exists, but little of it is in Arabic or written for NGO and public-sector teams who need judgement rather than a list of regulations to memorise. This course turns the major frameworks — NIST AI RMF, ISO 42001, the EU AI Act, OWASP, UNESCO and OECD — into a guided journey anyone can follow for free. It covers the UNESCO Recommendation on the Ethics of AI with its Readiness Assessment Methodology and Ethical Impact Assessment, the OECD AI Principles, the NIST AI RMF, ISO/IEC 42001 and 42005, the EU AI Act, the Council of Europe Framework Convention and HUDERIA, and OWASP — with the Gulf in brief (SDAIA's AI Ethics Principles and Saudi Arabia's data-protection law named, and the UAE's federal and DIFC tracks). The interface is in Arabic and English; Arabic lessons are in progress.
 
 ## What it does
 
@@ -21,9 +23,9 @@ Most AI governance material is dense, paywalled or a list of regulations to memo
 
 ## See it
 
-<p align="center"><img src="assets/screen-1.webp" alt="The journey" width="92%"><br><sub>The journey</sub></p>
+<p align="center"><img src="assets/screen-1.webp" alt="Course landing page: Learn AI governance from scratch, with Start the journey and See the method buttons" width="92%"><br><sub>The journey</sub></p>
 
-<p align="center"><img src="assets/screen-2.webp" alt="The Anchor Tools — run in the browser, nothing stored" width="92%"><br><sub>The Anchor Tools — run in the browser, nothing stored</sub></p>
+<p align="center"><img src="assets/screen-2.webp" alt="The Anchor Gate tool: six yes, partly or no questions that score whether an AI tool or use case earns its place" width="92%"><br><sub>The Anchor Tools — run in the browser, nothing stored</sub></p>
 
 <sub>All screens show demo data or public pages only.</sub>
 
@@ -36,6 +38,7 @@ React · TypeScript · component design system · browser-side interactive tools
 - No account is needed to learn; an optional account only saves progress
 - Analytics are anonymous, with an opt-out
 - Arabic lesson copy is tracked as needing human review before it counts as final
+- The course's own tools (the Anchor Gate and a readiness snapshot) are organisation-level exercises, not UNESCO's Readiness Assessment Methodology or Ethical Impact Assessment, which it teaches separately and credits to UNESCO
 
 ## What it deliberately doesn't do
 
