@@ -4,7 +4,7 @@
 
 <p align="center" dir="rtl" lang="ar">دورة مجانية ثنائية اللغة في حوكمة الذكاء الاصطناعي</p>
 
-> **This is a showcase, not the code.** The source is private because the system handles real operations for real people. Nothing here is needed to run it, and nothing here reveals how it is secured. A live walkthrough is available on request.
+> **This is a showcase, not the code.** The source is private because it is being relaunched. This page shows what it does and how it was built, not the code itself. A live walkthrough is available on request.
 
 ## The problem
 
@@ -34,7 +34,6 @@ React · TypeScript · component design system · browser-side interactive tools
 ## Built responsibly
 
 - No account is needed to learn; an optional account only saves progress
-- Progress data is scoped to each user
 - Analytics are anonymous, with an opt-out
 - Arabic lesson copy is tracked as needing human review before it counts as final
 
@@ -46,7 +45,7 @@ React · TypeScript · component design system · browser-side interactive tools
 
 - [ImpactAnchor Reels](https://github.com/Mohanad1st/impactanchor-reels-showcase) — Recorded sessions in; scored, subtitled, scheduled short videos out
 - [Impact Anchor — consulting site](https://github.com/Mohanad1st/impact-anchor-site-showcase) — From AI overwhelm to a working adoption plan, for mission-driven teams
-- [Anchor Learning Hub](https://github.com/Mohanad1st/anchor-learning-hub-showcase) — Interactive learning your teams actually finish — white-label, bilingual, offline-ready
+- [Anchor Learning Hub](https://github.com/Mohanad1st/anchor-learning-hub-showcase) — Interactive, bilingual, offline-ready learning for workshops and training programmes
 - [Network Intelligence](https://github.com/Mohanad1st/network-intelligence-showcase) — Relationships, opportunities and content in one self-hosted workspace
 
 ---
